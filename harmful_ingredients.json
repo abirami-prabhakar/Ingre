@@ -1,0 +1,1502 @@
+[
+    {
+        "Ingredient":"Sodium Lauryl Sulfate (SLS) #1",
+        "Why It's Used For":"Foaming agent in shampoo, toothpaste, soap",
+        "Risk":"Skin\/eye irritation, strips natural oils"
+    },
+    {
+        "Ingredient":"Parabens (Methyl, Propyl, Butyl) #2",
+        "Why It's Used For":"Preservative in lotions and makeup",
+        "Risk":"Endocrine disruption, linked to breast cancer"
+    },
+    {
+        "Ingredient":"Formaldehyde #3",
+        "Why It's Used For":"Used in nail polish, disinfectants, and preservatives",
+        "Risk":"Carcinogenic, causes respiratory issues"
+    },
+    {
+        "Ingredient":"Phthalates #4",
+        "Why It's Used For":"Fix scent in fragrances, used in plastics and cosmetics",
+        "Risk":"Hormone disruption, reproductive toxicity"
+    },
+    {
+        "Ingredient":"Aspartame #5",
+        "Why It's Used For":"Artificial sweetener in diet sodas and sugar-free foods",
+        "Risk":"Headaches, dizziness, neurological issues"
+    },
+    {
+        "Ingredient":"High-Fructose Corn Syrup #6",
+        "Why It's Used For":"Sweetener in sodas, processed foods, and candies",
+        "Risk":"Obesity, diabetes, fatty liver risk"
+    },
+    {
+        "Ingredient":"Monosodium Glutamate (MSG) #7",
+        "Why It's Used For":"Flavor enhancer in noodles, chips, and soups",
+        "Risk":"Headaches, nausea, Chinese restaurant syndrome"
+    },
+    {
+        "Ingredient":"Sodium Benzoate #8",
+        "Why It's Used For":"Preservative in soft drinks, pickles, dressings",
+        "Risk":"Forms benzene (carcinogen) with vitamin C"
+    },
+    {
+        "Ingredient":"BHA (Butylated Hydroxyanisole) #9",
+        "Why It's Used For":"Preservative in cereals, chips, and gum",
+        "Risk":"Possible human carcinogen"
+    },
+    {
+        "Ingredient":"BHT (Butylated Hydroxytoluene) #10",
+        "Why It's Used For":"Preserves fats and oils in snacks, gum, baked goods",
+        "Risk":"Liver\/kidney damage, tumor risk"
+    },
+    {
+        "Ingredient":"Lead #11",
+        "Why It's Used For":"Found in old paints, hair dyes, contaminated cosmetics",
+        "Risk":"Neurotoxic, developmental issues"
+    },
+    {
+        "Ingredient":"Mercury #12",
+        "Why It's Used For":"Found in some skin-lightening creams, contaminated fish",
+        "Risk":"Neurotoxic, kidney and brain damage"
+    },
+    {
+        "Ingredient":"Triclosan #13",
+        "Why It's Used For":"Antibacterial agent in soaps, toothpaste, deodorants",
+        "Risk":"Hormone disruption, antibiotic resistance"
+    },
+    {
+        "Ingredient":"Talc (with asbestos) #14",
+        "Why It's Used For":"Used in baby powder and cosmetics for smoothness",
+        "Risk":"Cancer risk (ovarian, lung)"
+    },
+    {
+        "Ingredient":"Benzene #15",
+        "Why It's Used For":"Industrial solvent, aerosol sprays",
+        "Risk":"Carcinogenic, blood cancers"
+    },
+    {
+        "Ingredient":"Sodium Lauryl Sulfate (SLS) #16",
+        "Why It's Used For":"Foaming agent in shampoo, toothpaste, soap",
+        "Risk":"Skin\/eye irritation, strips natural oils"
+    },
+    {
+        "Ingredient":"Parabens (Methyl, Propyl, Butyl) #17",
+        "Why It's Used For":"Preservative in lotions and makeup",
+        "Risk":"Endocrine disruption, linked to breast cancer"
+    },
+    {
+        "Ingredient":"Formaldehyde #18",
+        "Why It's Used For":"Used in nail polish, disinfectants, and preservatives",
+        "Risk":"Carcinogenic, causes respiratory issues"
+    },
+    {
+        "Ingredient":"Phthalates #19",
+        "Why It's Used For":"Fix scent in fragrances, used in plastics and cosmetics",
+        "Risk":"Hormone disruption, reproductive toxicity"
+    },
+    {
+        "Ingredient":"Aspartame #20",
+        "Why It's Used For":"Artificial sweetener in diet sodas and sugar-free foods",
+        "Risk":"Headaches, dizziness, neurological issues"
+    },
+    {
+        "Ingredient":"High-Fructose Corn Syrup #21",
+        "Why It's Used For":"Sweetener in sodas, processed foods, and candies",
+        "Risk":"Obesity, diabetes, fatty liver risk"
+    },
+    {
+        "Ingredient":"Monosodium Glutamate (MSG) #22",
+        "Why It's Used For":"Flavor enhancer in noodles, chips, and soups",
+        "Risk":"Headaches, nausea, Chinese restaurant syndrome"
+    },
+    {
+        "Ingredient":"Sodium Benzoate #23",
+        "Why It's Used For":"Preservative in soft drinks, pickles, dressings",
+        "Risk":"Forms benzene (carcinogen) with vitamin C"
+    },
+    {
+        "Ingredient":"BHA (Butylated Hydroxyanisole) #24",
+        "Why It's Used For":"Preservative in cereals, chips, and gum",
+        "Risk":"Possible human carcinogen"
+    },
+    {
+        "Ingredient":"BHT (Butylated Hydroxytoluene) #25",
+        "Why It's Used For":"Preserves fats and oils in snacks, gum, baked goods",
+        "Risk":"Liver\/kidney damage, tumor risk"
+    },
+    {
+        "Ingredient":"Lead #26",
+        "Why It's Used For":"Found in old paints, hair dyes, contaminated cosmetics",
+        "Risk":"Neurotoxic, developmental issues"
+    },
+    {
+        "Ingredient":"Mercury #27",
+        "Why It's Used For":"Found in some skin-lightening creams, contaminated fish",
+        "Risk":"Neurotoxic, kidney and brain damage"
+    },
+    {
+        "Ingredient":"Triclosan #28",
+        "Why It's Used For":"Antibacterial agent in soaps, toothpaste, deodorants",
+        "Risk":"Hormone disruption, antibiotic resistance"
+    },
+    {
+        "Ingredient":"Talc (with asbestos) #29",
+        "Why It's Used For":"Used in baby powder and cosmetics for smoothness",
+        "Risk":"Cancer risk (ovarian, lung)"
+    },
+    {
+        "Ingredient":"Benzene #30",
+        "Why It's Used For":"Industrial solvent, aerosol sprays",
+        "Risk":"Carcinogenic, blood cancers"
+    },
+    {
+        "Ingredient":"Sodium Lauryl Sulfate (SLS) #31",
+        "Why It's Used For":"Foaming agent in shampoo, toothpaste, soap",
+        "Risk":"Skin\/eye irritation, strips natural oils"
+    },
+    {
+        "Ingredient":"Parabens (Methyl, Propyl, Butyl) #32",
+        "Why It's Used For":"Preservative in lotions and makeup",
+        "Risk":"Endocrine disruption, linked to breast cancer"
+    },
+    {
+        "Ingredient":"Formaldehyde #33",
+        "Why It's Used For":"Used in nail polish, disinfectants, and preservatives",
+        "Risk":"Carcinogenic, causes respiratory issues"
+    },
+    {
+        "Ingredient":"Phthalates #34",
+        "Why It's Used For":"Fix scent in fragrances, used in plastics and cosmetics",
+        "Risk":"Hormone disruption, reproductive toxicity"
+    },
+    {
+        "Ingredient":"Aspartame #35",
+        "Why It's Used For":"Artificial sweetener in diet sodas and sugar-free foods",
+        "Risk":"Headaches, dizziness, neurological issues"
+    },
+    {
+        "Ingredient":"High-Fructose Corn Syrup #36",
+        "Why It's Used For":"Sweetener in sodas, processed foods, and candies",
+        "Risk":"Obesity, diabetes, fatty liver risk"
+    },
+    {
+        "Ingredient":"Monosodium Glutamate (MSG) #37",
+        "Why It's Used For":"Flavor enhancer in noodles, chips, and soups",
+        "Risk":"Headaches, nausea, Chinese restaurant syndrome"
+    },
+    {
+        "Ingredient":"Sodium Benzoate #38",
+        "Why It's Used For":"Preservative in soft drinks, pickles, dressings",
+        "Risk":"Forms benzene (carcinogen) with vitamin C"
+    },
+    {
+        "Ingredient":"BHA (Butylated Hydroxyanisole) #39",
+        "Why It's Used For":"Preservative in cereals, chips, and gum",
+        "Risk":"Possible human carcinogen"
+    },
+    {
+        "Ingredient":"BHT (Butylated Hydroxytoluene) #40",
+        "Why It's Used For":"Preserves fats and oils in snacks, gum, baked goods",
+        "Risk":"Liver\/kidney damage, tumor risk"
+    },
+    {
+        "Ingredient":"Lead #41",
+        "Why It's Used For":"Found in old paints, hair dyes, contaminated cosmetics",
+        "Risk":"Neurotoxic, developmental issues"
+    },
+    {
+        "Ingredient":"Mercury #42",
+        "Why It's Used For":"Found in some skin-lightening creams, contaminated fish",
+        "Risk":"Neurotoxic, kidney and brain damage"
+    },
+    {
+        "Ingredient":"Triclosan #43",
+        "Why It's Used For":"Antibacterial agent in soaps, toothpaste, deodorants",
+        "Risk":"Hormone disruption, antibiotic resistance"
+    },
+    {
+        "Ingredient":"Talc (with asbestos) #44",
+        "Why It's Used For":"Used in baby powder and cosmetics for smoothness",
+        "Risk":"Cancer risk (ovarian, lung)"
+    },
+    {
+        "Ingredient":"Benzene #45",
+        "Why It's Used For":"Industrial solvent, aerosol sprays",
+        "Risk":"Carcinogenic, blood cancers"
+    },
+    {
+        "Ingredient":"Sodium Lauryl Sulfate (SLS) #46",
+        "Why It's Used For":"Foaming agent in shampoo, toothpaste, soap",
+        "Risk":"Skin\/eye irritation, strips natural oils"
+    },
+    {
+        "Ingredient":"Parabens (Methyl, Propyl, Butyl) #47",
+        "Why It's Used For":"Preservative in lotions and makeup",
+        "Risk":"Endocrine disruption, linked to breast cancer"
+    },
+    {
+        "Ingredient":"Formaldehyde #48",
+        "Why It's Used For":"Used in nail polish, disinfectants, and preservatives",
+        "Risk":"Carcinogenic, causes respiratory issues"
+    },
+    {
+        "Ingredient":"Phthalates #49",
+        "Why It's Used For":"Fix scent in fragrances, used in plastics and cosmetics",
+        "Risk":"Hormone disruption, reproductive toxicity"
+    },
+    {
+        "Ingredient":"Aspartame #50",
+        "Why It's Used For":"Artificial sweetener in diet sodas and sugar-free foods",
+        "Risk":"Headaches, dizziness, neurological issues"
+    },
+    {
+        "Ingredient":"High-Fructose Corn Syrup #51",
+        "Why It's Used For":"Sweetener in sodas, processed foods, and candies",
+        "Risk":"Obesity, diabetes, fatty liver risk"
+    },
+    {
+        "Ingredient":"Monosodium Glutamate (MSG) #52",
+        "Why It's Used For":"Flavor enhancer in noodles, chips, and soups",
+        "Risk":"Headaches, nausea, Chinese restaurant syndrome"
+    },
+    {
+        "Ingredient":"Sodium Benzoate #53",
+        "Why It's Used For":"Preservative in soft drinks, pickles, dressings",
+        "Risk":"Forms benzene (carcinogen) with vitamin C"
+    },
+    {
+        "Ingredient":"BHA (Butylated Hydroxyanisole) #54",
+        "Why It's Used For":"Preservative in cereals, chips, and gum",
+        "Risk":"Possible human carcinogen"
+    },
+    {
+        "Ingredient":"BHT (Butylated Hydroxytoluene) #55",
+        "Why It's Used For":"Preserves fats and oils in snacks, gum, baked goods",
+        "Risk":"Liver\/kidney damage, tumor risk"
+    },
+    {
+        "Ingredient":"Lead #56",
+        "Why It's Used For":"Found in old paints, hair dyes, contaminated cosmetics",
+        "Risk":"Neurotoxic, developmental issues"
+    },
+    {
+        "Ingredient":"Mercury #57",
+        "Why It's Used For":"Found in some skin-lightening creams, contaminated fish",
+        "Risk":"Neurotoxic, kidney and brain damage"
+    },
+    {
+        "Ingredient":"Triclosan #58",
+        "Why It's Used For":"Antibacterial agent in soaps, toothpaste, deodorants",
+        "Risk":"Hormone disruption, antibiotic resistance"
+    },
+    {
+        "Ingredient":"Talc (with asbestos) #59",
+        "Why It's Used For":"Used in baby powder and cosmetics for smoothness",
+        "Risk":"Cancer risk (ovarian, lung)"
+    },
+    {
+        "Ingredient":"Benzene #60",
+        "Why It's Used For":"Industrial solvent, aerosol sprays",
+        "Risk":"Carcinogenic, blood cancers"
+    },
+    {
+        "Ingredient":"Sodium Lauryl Sulfate (SLS) #61",
+        "Why It's Used For":"Foaming agent in shampoo, toothpaste, soap",
+        "Risk":"Skin\/eye irritation, strips natural oils"
+    },
+    {
+        "Ingredient":"Parabens (Methyl, Propyl, Butyl) #62",
+        "Why It's Used For":"Preservative in lotions and makeup",
+        "Risk":"Endocrine disruption, linked to breast cancer"
+    },
+    {
+        "Ingredient":"Formaldehyde #63",
+        "Why It's Used For":"Used in nail polish, disinfectants, and preservatives",
+        "Risk":"Carcinogenic, causes respiratory issues"
+    },
+    {
+        "Ingredient":"Phthalates #64",
+        "Why It's Used For":"Fix scent in fragrances, used in plastics and cosmetics",
+        "Risk":"Hormone disruption, reproductive toxicity"
+    },
+    {
+        "Ingredient":"Aspartame #65",
+        "Why It's Used For":"Artificial sweetener in diet sodas and sugar-free foods",
+        "Risk":"Headaches, dizziness, neurological issues"
+    },
+    {
+        "Ingredient":"High-Fructose Corn Syrup #66",
+        "Why It's Used For":"Sweetener in sodas, processed foods, and candies",
+        "Risk":"Obesity, diabetes, fatty liver risk"
+    },
+    {
+        "Ingredient":"Monosodium Glutamate (MSG) #67",
+        "Why It's Used For":"Flavor enhancer in noodles, chips, and soups",
+        "Risk":"Headaches, nausea, Chinese restaurant syndrome"
+    },
+    {
+        "Ingredient":"Sodium Benzoate #68",
+        "Why It's Used For":"Preservative in soft drinks, pickles, dressings",
+        "Risk":"Forms benzene (carcinogen) with vitamin C"
+    },
+    {
+        "Ingredient":"BHA (Butylated Hydroxyanisole) #69",
+        "Why It's Used For":"Preservative in cereals, chips, and gum",
+        "Risk":"Possible human carcinogen"
+    },
+    {
+        "Ingredient":"BHT (Butylated Hydroxytoluene) #70",
+        "Why It's Used For":"Preserves fats and oils in snacks, gum, baked goods",
+        "Risk":"Liver\/kidney damage, tumor risk"
+    },
+    {
+        "Ingredient":"Lead #71",
+        "Why It's Used For":"Found in old paints, hair dyes, contaminated cosmetics",
+        "Risk":"Neurotoxic, developmental issues"
+    },
+    {
+        "Ingredient":"Mercury #72",
+        "Why It's Used For":"Found in some skin-lightening creams, contaminated fish",
+        "Risk":"Neurotoxic, kidney and brain damage"
+    },
+    {
+        "Ingredient":"Triclosan #73",
+        "Why It's Used For":"Antibacterial agent in soaps, toothpaste, deodorants",
+        "Risk":"Hormone disruption, antibiotic resistance"
+    },
+    {
+        "Ingredient":"Talc (with asbestos) #74",
+        "Why It's Used For":"Used in baby powder and cosmetics for smoothness",
+        "Risk":"Cancer risk (ovarian, lung)"
+    },
+    {
+        "Ingredient":"Benzene #75",
+        "Why It's Used For":"Industrial solvent, aerosol sprays",
+        "Risk":"Carcinogenic, blood cancers"
+    },
+    {
+        "Ingredient":"Sodium Lauryl Sulfate (SLS) #76",
+        "Why It's Used For":"Foaming agent in shampoo, toothpaste, soap",
+        "Risk":"Skin\/eye irritation, strips natural oils"
+    },
+    {
+        "Ingredient":"Parabens (Methyl, Propyl, Butyl) #77",
+        "Why It's Used For":"Preservative in lotions and makeup",
+        "Risk":"Endocrine disruption, linked to breast cancer"
+    },
+    {
+        "Ingredient":"Formaldehyde #78",
+        "Why It's Used For":"Used in nail polish, disinfectants, and preservatives",
+        "Risk":"Carcinogenic, causes respiratory issues"
+    },
+    {
+        "Ingredient":"Phthalates #79",
+        "Why It's Used For":"Fix scent in fragrances, used in plastics and cosmetics",
+        "Risk":"Hormone disruption, reproductive toxicity"
+    },
+    {
+        "Ingredient":"Aspartame #80",
+        "Why It's Used For":"Artificial sweetener in diet sodas and sugar-free foods",
+        "Risk":"Headaches, dizziness, neurological issues"
+    },
+    {
+        "Ingredient":"High-Fructose Corn Syrup #81",
+        "Why It's Used For":"Sweetener in sodas, processed foods, and candies",
+        "Risk":"Obesity, diabetes, fatty liver risk"
+    },
+    {
+        "Ingredient":"Monosodium Glutamate (MSG) #82",
+        "Why It's Used For":"Flavor enhancer in noodles, chips, and soups",
+        "Risk":"Headaches, nausea, Chinese restaurant syndrome"
+    },
+    {
+        "Ingredient":"Sodium Benzoate #83",
+        "Why It's Used For":"Preservative in soft drinks, pickles, dressings",
+        "Risk":"Forms benzene (carcinogen) with vitamin C"
+    },
+    {
+        "Ingredient":"BHA (Butylated Hydroxyanisole) #84",
+        "Why It's Used For":"Preservative in cereals, chips, and gum",
+        "Risk":"Possible human carcinogen"
+    },
+    {
+        "Ingredient":"BHT (Butylated Hydroxytoluene) #85",
+        "Why It's Used For":"Preserves fats and oils in snacks, gum, baked goods",
+        "Risk":"Liver\/kidney damage, tumor risk"
+    },
+    {
+        "Ingredient":"Lead #86",
+        "Why It's Used For":"Found in old paints, hair dyes, contaminated cosmetics",
+        "Risk":"Neurotoxic, developmental issues"
+    },
+    {
+        "Ingredient":"Mercury #87",
+        "Why It's Used For":"Found in some skin-lightening creams, contaminated fish",
+        "Risk":"Neurotoxic, kidney and brain damage"
+    },
+    {
+        "Ingredient":"Triclosan #88",
+        "Why It's Used For":"Antibacterial agent in soaps, toothpaste, deodorants",
+        "Risk":"Hormone disruption, antibiotic resistance"
+    },
+    {
+        "Ingredient":"Talc (with asbestos) #89",
+        "Why It's Used For":"Used in baby powder and cosmetics for smoothness",
+        "Risk":"Cancer risk (ovarian, lung)"
+    },
+    {
+        "Ingredient":"Benzene #90",
+        "Why It's Used For":"Industrial solvent, aerosol sprays",
+        "Risk":"Carcinogenic, blood cancers"
+    },
+    {
+        "Ingredient":"Sodium Lauryl Sulfate (SLS) #91",
+        "Why It's Used For":"Foaming agent in shampoo, toothpaste, soap",
+        "Risk":"Skin\/eye irritation, strips natural oils"
+    },
+    {
+        "Ingredient":"Parabens (Methyl, Propyl, Butyl) #92",
+        "Why It's Used For":"Preservative in lotions and makeup",
+        "Risk":"Endocrine disruption, linked to breast cancer"
+    },
+    {
+        "Ingredient":"Formaldehyde #93",
+        "Why It's Used For":"Used in nail polish, disinfectants, and preservatives",
+        "Risk":"Carcinogenic, causes respiratory issues"
+    },
+    {
+        "Ingredient":"Phthalates #94",
+        "Why It's Used For":"Fix scent in fragrances, used in plastics and cosmetics",
+        "Risk":"Hormone disruption, reproductive toxicity"
+    },
+    {
+        "Ingredient":"Aspartame #95",
+        "Why It's Used For":"Artificial sweetener in diet sodas and sugar-free foods",
+        "Risk":"Headaches, dizziness, neurological issues"
+    },
+    {
+        "Ingredient":"High-Fructose Corn Syrup #96",
+        "Why It's Used For":"Sweetener in sodas, processed foods, and candies",
+        "Risk":"Obesity, diabetes, fatty liver risk"
+    },
+    {
+        "Ingredient":"Monosodium Glutamate (MSG) #97",
+        "Why It's Used For":"Flavor enhancer in noodles, chips, and soups",
+        "Risk":"Headaches, nausea, Chinese restaurant syndrome"
+    },
+    {
+        "Ingredient":"Sodium Benzoate #98",
+        "Why It's Used For":"Preservative in soft drinks, pickles, dressings",
+        "Risk":"Forms benzene (carcinogen) with vitamin C"
+    },
+    {
+        "Ingredient":"BHA (Butylated Hydroxyanisole) #99",
+        "Why It's Used For":"Preservative in cereals, chips, and gum",
+        "Risk":"Possible human carcinogen"
+    },
+    {
+        "Ingredient":"BHT (Butylated Hydroxytoluene) #100",
+        "Why It's Used For":"Preserves fats and oils in snacks, gum, baked goods",
+        "Risk":"Liver\/kidney damage, tumor risk"
+    },
+    {
+        "Ingredient":"Lead #101",
+        "Why It's Used For":"Found in old paints, hair dyes, contaminated cosmetics",
+        "Risk":"Neurotoxic, developmental issues"
+    },
+    {
+        "Ingredient":"Mercury #102",
+        "Why It's Used For":"Found in some skin-lightening creams, contaminated fish",
+        "Risk":"Neurotoxic, kidney and brain damage"
+    },
+    {
+        "Ingredient":"Triclosan #103",
+        "Why It's Used For":"Antibacterial agent in soaps, toothpaste, deodorants",
+        "Risk":"Hormone disruption, antibiotic resistance"
+    },
+    {
+        "Ingredient":"Talc (with asbestos) #104",
+        "Why It's Used For":"Used in baby powder and cosmetics for smoothness",
+        "Risk":"Cancer risk (ovarian, lung)"
+    },
+    {
+        "Ingredient":"Benzene #105",
+        "Why It's Used For":"Industrial solvent, aerosol sprays",
+        "Risk":"Carcinogenic, blood cancers"
+    },
+    {
+        "Ingredient":"Sodium Lauryl Sulfate (SLS) #106",
+        "Why It's Used For":"Foaming agent in shampoo, toothpaste, soap",
+        "Risk":"Skin\/eye irritation, strips natural oils"
+    },
+    {
+        "Ingredient":"Parabens (Methyl, Propyl, Butyl) #107",
+        "Why It's Used For":"Preservative in lotions and makeup",
+        "Risk":"Endocrine disruption, linked to breast cancer"
+    },
+    {
+        "Ingredient":"Formaldehyde #108",
+        "Why It's Used For":"Used in nail polish, disinfectants, and preservatives",
+        "Risk":"Carcinogenic, causes respiratory issues"
+    },
+    {
+        "Ingredient":"Phthalates #109",
+        "Why It's Used For":"Fix scent in fragrances, used in plastics and cosmetics",
+        "Risk":"Hormone disruption, reproductive toxicity"
+    },
+    {
+        "Ingredient":"Aspartame #110",
+        "Why It's Used For":"Artificial sweetener in diet sodas and sugar-free foods",
+        "Risk":"Headaches, dizziness, neurological issues"
+    },
+    {
+        "Ingredient":"High-Fructose Corn Syrup #111",
+        "Why It's Used For":"Sweetener in sodas, processed foods, and candies",
+        "Risk":"Obesity, diabetes, fatty liver risk"
+    },
+    {
+        "Ingredient":"Monosodium Glutamate (MSG) #112",
+        "Why It's Used For":"Flavor enhancer in noodles, chips, and soups",
+        "Risk":"Headaches, nausea, Chinese restaurant syndrome"
+    },
+    {
+        "Ingredient":"Sodium Benzoate #113",
+        "Why It's Used For":"Preservative in soft drinks, pickles, dressings",
+        "Risk":"Forms benzene (carcinogen) with vitamin C"
+    },
+    {
+        "Ingredient":"BHA (Butylated Hydroxyanisole) #114",
+        "Why It's Used For":"Preservative in cereals, chips, and gum",
+        "Risk":"Possible human carcinogen"
+    },
+    {
+        "Ingredient":"BHT (Butylated Hydroxytoluene) #115",
+        "Why It's Used For":"Preserves fats and oils in snacks, gum, baked goods",
+        "Risk":"Liver\/kidney damage, tumor risk"
+    },
+    {
+        "Ingredient":"Lead #116",
+        "Why It's Used For":"Found in old paints, hair dyes, contaminated cosmetics",
+        "Risk":"Neurotoxic, developmental issues"
+    },
+    {
+        "Ingredient":"Mercury #117",
+        "Why It's Used For":"Found in some skin-lightening creams, contaminated fish",
+        "Risk":"Neurotoxic, kidney and brain damage"
+    },
+    {
+        "Ingredient":"Triclosan #118",
+        "Why It's Used For":"Antibacterial agent in soaps, toothpaste, deodorants",
+        "Risk":"Hormone disruption, antibiotic resistance"
+    },
+    {
+        "Ingredient":"Talc (with asbestos) #119",
+        "Why It's Used For":"Used in baby powder and cosmetics for smoothness",
+        "Risk":"Cancer risk (ovarian, lung)"
+    },
+    {
+        "Ingredient":"Benzene #120",
+        "Why It's Used For":"Industrial solvent, aerosol sprays",
+        "Risk":"Carcinogenic, blood cancers"
+    },
+    {
+        "Ingredient":"Sodium Lauryl Sulfate (SLS) #121",
+        "Why It's Used For":"Foaming agent in shampoo, toothpaste, soap",
+        "Risk":"Skin\/eye irritation, strips natural oils"
+    },
+    {
+        "Ingredient":"Parabens (Methyl, Propyl, Butyl) #122",
+        "Why It's Used For":"Preservative in lotions and makeup",
+        "Risk":"Endocrine disruption, linked to breast cancer"
+    },
+    {
+        "Ingredient":"Formaldehyde #123",
+        "Why It's Used For":"Used in nail polish, disinfectants, and preservatives",
+        "Risk":"Carcinogenic, causes respiratory issues"
+    },
+    {
+        "Ingredient":"Phthalates #124",
+        "Why It's Used For":"Fix scent in fragrances, used in plastics and cosmetics",
+        "Risk":"Hormone disruption, reproductive toxicity"
+    },
+    {
+        "Ingredient":"Aspartame #125",
+        "Why It's Used For":"Artificial sweetener in diet sodas and sugar-free foods",
+        "Risk":"Headaches, dizziness, neurological issues"
+    },
+    {
+        "Ingredient":"High-Fructose Corn Syrup #126",
+        "Why It's Used For":"Sweetener in sodas, processed foods, and candies",
+        "Risk":"Obesity, diabetes, fatty liver risk"
+    },
+    {
+        "Ingredient":"Monosodium Glutamate (MSG) #127",
+        "Why It's Used For":"Flavor enhancer in noodles, chips, and soups",
+        "Risk":"Headaches, nausea, Chinese restaurant syndrome"
+    },
+    {
+        "Ingredient":"Sodium Benzoate #128",
+        "Why It's Used For":"Preservative in soft drinks, pickles, dressings",
+        "Risk":"Forms benzene (carcinogen) with vitamin C"
+    },
+    {
+        "Ingredient":"BHA (Butylated Hydroxyanisole) #129",
+        "Why It's Used For":"Preservative in cereals, chips, and gum",
+        "Risk":"Possible human carcinogen"
+    },
+    {
+        "Ingredient":"BHT (Butylated Hydroxytoluene) #130",
+        "Why It's Used For":"Preserves fats and oils in snacks, gum, baked goods",
+        "Risk":"Liver\/kidney damage, tumor risk"
+    },
+    {
+        "Ingredient":"Lead #131",
+        "Why It's Used For":"Found in old paints, hair dyes, contaminated cosmetics",
+        "Risk":"Neurotoxic, developmental issues"
+    },
+    {
+        "Ingredient":"Mercury #132",
+        "Why It's Used For":"Found in some skin-lightening creams, contaminated fish",
+        "Risk":"Neurotoxic, kidney and brain damage"
+    },
+    {
+        "Ingredient":"Triclosan #133",
+        "Why It's Used For":"Antibacterial agent in soaps, toothpaste, deodorants",
+        "Risk":"Hormone disruption, antibiotic resistance"
+    },
+    {
+        "Ingredient":"Talc (with asbestos) #134",
+        "Why It's Used For":"Used in baby powder and cosmetics for smoothness",
+        "Risk":"Cancer risk (ovarian, lung)"
+    },
+    {
+        "Ingredient":"Benzene #135",
+        "Why It's Used For":"Industrial solvent, aerosol sprays",
+        "Risk":"Carcinogenic, blood cancers"
+    },
+    {
+        "Ingredient":"Sodium Lauryl Sulfate (SLS) #136",
+        "Why It's Used For":"Foaming agent in shampoo, toothpaste, soap",
+        "Risk":"Skin\/eye irritation, strips natural oils"
+    },
+    {
+        "Ingredient":"Parabens (Methyl, Propyl, Butyl) #137",
+        "Why It's Used For":"Preservative in lotions and makeup",
+        "Risk":"Endocrine disruption, linked to breast cancer"
+    },
+    {
+        "Ingredient":"Formaldehyde #138",
+        "Why It's Used For":"Used in nail polish, disinfectants, and preservatives",
+        "Risk":"Carcinogenic, causes respiratory issues"
+    },
+    {
+        "Ingredient":"Phthalates #139",
+        "Why It's Used For":"Fix scent in fragrances, used in plastics and cosmetics",
+        "Risk":"Hormone disruption, reproductive toxicity"
+    },
+    {
+        "Ingredient":"Aspartame #140",
+        "Why It's Used For":"Artificial sweetener in diet sodas and sugar-free foods",
+        "Risk":"Headaches, dizziness, neurological issues"
+    },
+    {
+        "Ingredient":"High-Fructose Corn Syrup #141",
+        "Why It's Used For":"Sweetener in sodas, processed foods, and candies",
+        "Risk":"Obesity, diabetes, fatty liver risk"
+    },
+    {
+        "Ingredient":"Monosodium Glutamate (MSG) #142",
+        "Why It's Used For":"Flavor enhancer in noodles, chips, and soups",
+        "Risk":"Headaches, nausea, Chinese restaurant syndrome"
+    },
+    {
+        "Ingredient":"Sodium Benzoate #143",
+        "Why It's Used For":"Preservative in soft drinks, pickles, dressings",
+        "Risk":"Forms benzene (carcinogen) with vitamin C"
+    },
+    {
+        "Ingredient":"BHA (Butylated Hydroxyanisole) #144",
+        "Why It's Used For":"Preservative in cereals, chips, and gum",
+        "Risk":"Possible human carcinogen"
+    },
+    {
+        "Ingredient":"BHT (Butylated Hydroxytoluene) #145",
+        "Why It's Used For":"Preserves fats and oils in snacks, gum, baked goods",
+        "Risk":"Liver\/kidney damage, tumor risk"
+    },
+    {
+        "Ingredient":"Lead #146",
+        "Why It's Used For":"Found in old paints, hair dyes, contaminated cosmetics",
+        "Risk":"Neurotoxic, developmental issues"
+    },
+    {
+        "Ingredient":"Mercury #147",
+        "Why It's Used For":"Found in some skin-lightening creams, contaminated fish",
+        "Risk":"Neurotoxic, kidney and brain damage"
+    },
+    {
+        "Ingredient":"Triclosan #148",
+        "Why It's Used For":"Antibacterial agent in soaps, toothpaste, deodorants",
+        "Risk":"Hormone disruption, antibiotic resistance"
+    },
+    {
+        "Ingredient":"Talc (with asbestos) #149",
+        "Why It's Used For":"Used in baby powder and cosmetics for smoothness",
+        "Risk":"Cancer risk (ovarian, lung)"
+    },
+    {
+        "Ingredient":"Benzene #150",
+        "Why It's Used For":"Industrial solvent, aerosol sprays",
+        "Risk":"Carcinogenic, blood cancers"
+    },
+    {
+        "Ingredient":"Sodium Lauryl Sulfate (SLS) #151",
+        "Why It's Used For":"Foaming agent in shampoo, toothpaste, soap",
+        "Risk":"Skin\/eye irritation, strips natural oils"
+    },
+    {
+        "Ingredient":"Parabens (Methyl, Propyl, Butyl) #152",
+        "Why It's Used For":"Preservative in lotions and makeup",
+        "Risk":"Endocrine disruption, linked to breast cancer"
+    },
+    {
+        "Ingredient":"Formaldehyde #153",
+        "Why It's Used For":"Used in nail polish, disinfectants, and preservatives",
+        "Risk":"Carcinogenic, causes respiratory issues"
+    },
+    {
+        "Ingredient":"Phthalates #154",
+        "Why It's Used For":"Fix scent in fragrances, used in plastics and cosmetics",
+        "Risk":"Hormone disruption, reproductive toxicity"
+    },
+    {
+        "Ingredient":"Aspartame #155",
+        "Why It's Used For":"Artificial sweetener in diet sodas and sugar-free foods",
+        "Risk":"Headaches, dizziness, neurological issues"
+    },
+    {
+        "Ingredient":"High-Fructose Corn Syrup #156",
+        "Why It's Used For":"Sweetener in sodas, processed foods, and candies",
+        "Risk":"Obesity, diabetes, fatty liver risk"
+    },
+    {
+        "Ingredient":"Monosodium Glutamate (MSG) #157",
+        "Why It's Used For":"Flavor enhancer in noodles, chips, and soups",
+        "Risk":"Headaches, nausea, Chinese restaurant syndrome"
+    },
+    {
+        "Ingredient":"Sodium Benzoate #158",
+        "Why It's Used For":"Preservative in soft drinks, pickles, dressings",
+        "Risk":"Forms benzene (carcinogen) with vitamin C"
+    },
+    {
+        "Ingredient":"BHA (Butylated Hydroxyanisole) #159",
+        "Why It's Used For":"Preservative in cereals, chips, and gum",
+        "Risk":"Possible human carcinogen"
+    },
+    {
+        "Ingredient":"BHT (Butylated Hydroxytoluene) #160",
+        "Why It's Used For":"Preserves fats and oils in snacks, gum, baked goods",
+        "Risk":"Liver\/kidney damage, tumor risk"
+    },
+    {
+        "Ingredient":"Lead #161",
+        "Why It's Used For":"Found in old paints, hair dyes, contaminated cosmetics",
+        "Risk":"Neurotoxic, developmental issues"
+    },
+    {
+        "Ingredient":"Mercury #162",
+        "Why It's Used For":"Found in some skin-lightening creams, contaminated fish",
+        "Risk":"Neurotoxic, kidney and brain damage"
+    },
+    {
+        "Ingredient":"Triclosan #163",
+        "Why It's Used For":"Antibacterial agent in soaps, toothpaste, deodorants",
+        "Risk":"Hormone disruption, antibiotic resistance"
+    },
+    {
+        "Ingredient":"Talc (with asbestos) #164",
+        "Why It's Used For":"Used in baby powder and cosmetics for smoothness",
+        "Risk":"Cancer risk (ovarian, lung)"
+    },
+    {
+        "Ingredient":"Benzene #165",
+        "Why It's Used For":"Industrial solvent, aerosol sprays",
+        "Risk":"Carcinogenic, blood cancers"
+    },
+    {
+        "Ingredient":"Sodium Lauryl Sulfate (SLS) #166",
+        "Why It's Used For":"Foaming agent in shampoo, toothpaste, soap",
+        "Risk":"Skin\/eye irritation, strips natural oils"
+    },
+    {
+        "Ingredient":"Parabens (Methyl, Propyl, Butyl) #167",
+        "Why It's Used For":"Preservative in lotions and makeup",
+        "Risk":"Endocrine disruption, linked to breast cancer"
+    },
+    {
+        "Ingredient":"Formaldehyde #168",
+        "Why It's Used For":"Used in nail polish, disinfectants, and preservatives",
+        "Risk":"Carcinogenic, causes respiratory issues"
+    },
+    {
+        "Ingredient":"Phthalates #169",
+        "Why It's Used For":"Fix scent in fragrances, used in plastics and cosmetics",
+        "Risk":"Hormone disruption, reproductive toxicity"
+    },
+    {
+        "Ingredient":"Aspartame #170",
+        "Why It's Used For":"Artificial sweetener in diet sodas and sugar-free foods",
+        "Risk":"Headaches, dizziness, neurological issues"
+    },
+    {
+        "Ingredient":"High-Fructose Corn Syrup #171",
+        "Why It's Used For":"Sweetener in sodas, processed foods, and candies",
+        "Risk":"Obesity, diabetes, fatty liver risk"
+    },
+    {
+        "Ingredient":"Monosodium Glutamate (MSG) #172",
+        "Why It's Used For":"Flavor enhancer in noodles, chips, and soups",
+        "Risk":"Headaches, nausea, Chinese restaurant syndrome"
+    },
+    {
+        "Ingredient":"Sodium Benzoate #173",
+        "Why It's Used For":"Preservative in soft drinks, pickles, dressings",
+        "Risk":"Forms benzene (carcinogen) with vitamin C"
+    },
+    {
+        "Ingredient":"BHA (Butylated Hydroxyanisole) #174",
+        "Why It's Used For":"Preservative in cereals, chips, and gum",
+        "Risk":"Possible human carcinogen"
+    },
+    {
+        "Ingredient":"BHT (Butylated Hydroxytoluene) #175",
+        "Why It's Used For":"Preserves fats and oils in snacks, gum, baked goods",
+        "Risk":"Liver\/kidney damage, tumor risk"
+    },
+    {
+        "Ingredient":"Lead #176",
+        "Why It's Used For":"Found in old paints, hair dyes, contaminated cosmetics",
+        "Risk":"Neurotoxic, developmental issues"
+    },
+    {
+        "Ingredient":"Mercury #177",
+        "Why It's Used For":"Found in some skin-lightening creams, contaminated fish",
+        "Risk":"Neurotoxic, kidney and brain damage"
+    },
+    {
+        "Ingredient":"Triclosan #178",
+        "Why It's Used For":"Antibacterial agent in soaps, toothpaste, deodorants",
+        "Risk":"Hormone disruption, antibiotic resistance"
+    },
+    {
+        "Ingredient":"Talc (with asbestos) #179",
+        "Why It's Used For":"Used in baby powder and cosmetics for smoothness",
+        "Risk":"Cancer risk (ovarian, lung)"
+    },
+    {
+        "Ingredient":"Benzene #180",
+        "Why It's Used For":"Industrial solvent, aerosol sprays",
+        "Risk":"Carcinogenic, blood cancers"
+    },
+    {
+        "Ingredient":"Sodium Lauryl Sulfate (SLS) #181",
+        "Why It's Used For":"Foaming agent in shampoo, toothpaste, soap",
+        "Risk":"Skin\/eye irritation, strips natural oils"
+    },
+    {
+        "Ingredient":"Parabens (Methyl, Propyl, Butyl) #182",
+        "Why It's Used For":"Preservative in lotions and makeup",
+        "Risk":"Endocrine disruption, linked to breast cancer"
+    },
+    {
+        "Ingredient":"Formaldehyde #183",
+        "Why It's Used For":"Used in nail polish, disinfectants, and preservatives",
+        "Risk":"Carcinogenic, causes respiratory issues"
+    },
+    {
+        "Ingredient":"Phthalates #184",
+        "Why It's Used For":"Fix scent in fragrances, used in plastics and cosmetics",
+        "Risk":"Hormone disruption, reproductive toxicity"
+    },
+    {
+        "Ingredient":"Aspartame #185",
+        "Why It's Used For":"Artificial sweetener in diet sodas and sugar-free foods",
+        "Risk":"Headaches, dizziness, neurological issues"
+    },
+    {
+        "Ingredient":"High-Fructose Corn Syrup #186",
+        "Why It's Used For":"Sweetener in sodas, processed foods, and candies",
+        "Risk":"Obesity, diabetes, fatty liver risk"
+    },
+    {
+        "Ingredient":"Monosodium Glutamate (MSG) #187",
+        "Why It's Used For":"Flavor enhancer in noodles, chips, and soups",
+        "Risk":"Headaches, nausea, Chinese restaurant syndrome"
+    },
+    {
+        "Ingredient":"Sodium Benzoate #188",
+        "Why It's Used For":"Preservative in soft drinks, pickles, dressings",
+        "Risk":"Forms benzene (carcinogen) with vitamin C"
+    },
+    {
+        "Ingredient":"BHA (Butylated Hydroxyanisole) #189",
+        "Why It's Used For":"Preservative in cereals, chips, and gum",
+        "Risk":"Possible human carcinogen"
+    },
+    {
+        "Ingredient":"BHT (Butylated Hydroxytoluene) #190",
+        "Why It's Used For":"Preserves fats and oils in snacks, gum, baked goods",
+        "Risk":"Liver\/kidney damage, tumor risk"
+    },
+    {
+        "Ingredient":"Lead #191",
+        "Why It's Used For":"Found in old paints, hair dyes, contaminated cosmetics",
+        "Risk":"Neurotoxic, developmental issues"
+    },
+    {
+        "Ingredient":"Mercury #192",
+        "Why It's Used For":"Found in some skin-lightening creams, contaminated fish",
+        "Risk":"Neurotoxic, kidney and brain damage"
+    },
+    {
+        "Ingredient":"Triclosan #193",
+        "Why It's Used For":"Antibacterial agent in soaps, toothpaste, deodorants",
+        "Risk":"Hormone disruption, antibiotic resistance"
+    },
+    {
+        "Ingredient":"Talc (with asbestos) #194",
+        "Why It's Used For":"Used in baby powder and cosmetics for smoothness",
+        "Risk":"Cancer risk (ovarian, lung)"
+    },
+    {
+        "Ingredient":"Benzene #195",
+        "Why It's Used For":"Industrial solvent, aerosol sprays",
+        "Risk":"Carcinogenic, blood cancers"
+    },
+    {
+        "Ingredient":"Sodium Lauryl Sulfate (SLS) #196",
+        "Why It's Used For":"Foaming agent in shampoo, toothpaste, soap",
+        "Risk":"Skin\/eye irritation, strips natural oils"
+    },
+    {
+        "Ingredient":"Parabens (Methyl, Propyl, Butyl) #197",
+        "Why It's Used For":"Preservative in lotions and makeup",
+        "Risk":"Endocrine disruption, linked to breast cancer"
+    },
+    {
+        "Ingredient":"Formaldehyde #198",
+        "Why It's Used For":"Used in nail polish, disinfectants, and preservatives",
+        "Risk":"Carcinogenic, causes respiratory issues"
+    },
+    {
+        "Ingredient":"Phthalates #199",
+        "Why It's Used For":"Fix scent in fragrances, used in plastics and cosmetics",
+        "Risk":"Hormone disruption, reproductive toxicity"
+    },
+    {
+        "Ingredient":"Aspartame #200",
+        "Why It's Used For":"Artificial sweetener in diet sodas and sugar-free foods",
+        "Risk":"Headaches, dizziness, neurological issues"
+    },
+    {
+        "Ingredient":"High-Fructose Corn Syrup #201",
+        "Why It's Used For":"Sweetener in sodas, processed foods, and candies",
+        "Risk":"Obesity, diabetes, fatty liver risk"
+    },
+    {
+        "Ingredient":"Monosodium Glutamate (MSG) #202",
+        "Why It's Used For":"Flavor enhancer in noodles, chips, and soups",
+        "Risk":"Headaches, nausea, Chinese restaurant syndrome"
+    },
+    {
+        "Ingredient":"Sodium Benzoate #203",
+        "Why It's Used For":"Preservative in soft drinks, pickles, dressings",
+        "Risk":"Forms benzene (carcinogen) with vitamin C"
+    },
+    {
+        "Ingredient":"BHA (Butylated Hydroxyanisole) #204",
+        "Why It's Used For":"Preservative in cereals, chips, and gum",
+        "Risk":"Possible human carcinogen"
+    },
+    {
+        "Ingredient":"BHT (Butylated Hydroxytoluene) #205",
+        "Why It's Used For":"Preserves fats and oils in snacks, gum, baked goods",
+        "Risk":"Liver\/kidney damage, tumor risk"
+    },
+    {
+        "Ingredient":"Lead #206",
+        "Why It's Used For":"Found in old paints, hair dyes, contaminated cosmetics",
+        "Risk":"Neurotoxic, developmental issues"
+    },
+    {
+        "Ingredient":"Mercury #207",
+        "Why It's Used For":"Found in some skin-lightening creams, contaminated fish",
+        "Risk":"Neurotoxic, kidney and brain damage"
+    },
+    {
+        "Ingredient":"Triclosan #208",
+        "Why It's Used For":"Antibacterial agent in soaps, toothpaste, deodorants",
+        "Risk":"Hormone disruption, antibiotic resistance"
+    },
+    {
+        "Ingredient":"Talc (with asbestos) #209",
+        "Why It's Used For":"Used in baby powder and cosmetics for smoothness",
+        "Risk":"Cancer risk (ovarian, lung)"
+    },
+    {
+        "Ingredient":"Benzene #210",
+        "Why It's Used For":"Industrial solvent, aerosol sprays",
+        "Risk":"Carcinogenic, blood cancers"
+    },
+    {
+        "Ingredient":"Sodium Lauryl Sulfate (SLS) #211",
+        "Why It's Used For":"Foaming agent in shampoo, toothpaste, soap",
+        "Risk":"Skin\/eye irritation, strips natural oils"
+    },
+    {
+        "Ingredient":"Parabens (Methyl, Propyl, Butyl) #212",
+        "Why It's Used For":"Preservative in lotions and makeup",
+        "Risk":"Endocrine disruption, linked to breast cancer"
+    },
+    {
+        "Ingredient":"Formaldehyde #213",
+        "Why It's Used For":"Used in nail polish, disinfectants, and preservatives",
+        "Risk":"Carcinogenic, causes respiratory issues"
+    },
+    {
+        "Ingredient":"Phthalates #214",
+        "Why It's Used For":"Fix scent in fragrances, used in plastics and cosmetics",
+        "Risk":"Hormone disruption, reproductive toxicity"
+    },
+    {
+        "Ingredient":"Aspartame #215",
+        "Why It's Used For":"Artificial sweetener in diet sodas and sugar-free foods",
+        "Risk":"Headaches, dizziness, neurological issues"
+    },
+    {
+        "Ingredient":"High-Fructose Corn Syrup #216",
+        "Why It's Used For":"Sweetener in sodas, processed foods, and candies",
+        "Risk":"Obesity, diabetes, fatty liver risk"
+    },
+    {
+        "Ingredient":"Monosodium Glutamate (MSG) #217",
+        "Why It's Used For":"Flavor enhancer in noodles, chips, and soups",
+        "Risk":"Headaches, nausea, Chinese restaurant syndrome"
+    },
+    {
+        "Ingredient":"Sodium Benzoate #218",
+        "Why It's Used For":"Preservative in soft drinks, pickles, dressings",
+        "Risk":"Forms benzene (carcinogen) with vitamin C"
+    },
+    {
+        "Ingredient":"BHA (Butylated Hydroxyanisole) #219",
+        "Why It's Used For":"Preservative in cereals, chips, and gum",
+        "Risk":"Possible human carcinogen"
+    },
+    {
+        "Ingredient":"BHT (Butylated Hydroxytoluene) #220",
+        "Why It's Used For":"Preserves fats and oils in snacks, gum, baked goods",
+        "Risk":"Liver\/kidney damage, tumor risk"
+    },
+    {
+        "Ingredient":"Lead #221",
+        "Why It's Used For":"Found in old paints, hair dyes, contaminated cosmetics",
+        "Risk":"Neurotoxic, developmental issues"
+    },
+    {
+        "Ingredient":"Mercury #222",
+        "Why It's Used For":"Found in some skin-lightening creams, contaminated fish",
+        "Risk":"Neurotoxic, kidney and brain damage"
+    },
+    {
+        "Ingredient":"Triclosan #223",
+        "Why It's Used For":"Antibacterial agent in soaps, toothpaste, deodorants",
+        "Risk":"Hormone disruption, antibiotic resistance"
+    },
+    {
+        "Ingredient":"Talc (with asbestos) #224",
+        "Why It's Used For":"Used in baby powder and cosmetics for smoothness",
+        "Risk":"Cancer risk (ovarian, lung)"
+    },
+    {
+        "Ingredient":"Benzene #225",
+        "Why It's Used For":"Industrial solvent, aerosol sprays",
+        "Risk":"Carcinogenic, blood cancers"
+    },
+    {
+        "Ingredient":"Sodium Lauryl Sulfate (SLS) #226",
+        "Why It's Used For":"Foaming agent in shampoo, toothpaste, soap",
+        "Risk":"Skin\/eye irritation, strips natural oils"
+    },
+    {
+        "Ingredient":"Parabens (Methyl, Propyl, Butyl) #227",
+        "Why It's Used For":"Preservative in lotions and makeup",
+        "Risk":"Endocrine disruption, linked to breast cancer"
+    },
+    {
+        "Ingredient":"Formaldehyde #228",
+        "Why It's Used For":"Used in nail polish, disinfectants, and preservatives",
+        "Risk":"Carcinogenic, causes respiratory issues"
+    },
+    {
+        "Ingredient":"Phthalates #229",
+        "Why It's Used For":"Fix scent in fragrances, used in plastics and cosmetics",
+        "Risk":"Hormone disruption, reproductive toxicity"
+    },
+    {
+        "Ingredient":"Aspartame #230",
+        "Why It's Used For":"Artificial sweetener in diet sodas and sugar-free foods",
+        "Risk":"Headaches, dizziness, neurological issues"
+    },
+    {
+        "Ingredient":"High-Fructose Corn Syrup #231",
+        "Why It's Used For":"Sweetener in sodas, processed foods, and candies",
+        "Risk":"Obesity, diabetes, fatty liver risk"
+    },
+    {
+        "Ingredient":"Monosodium Glutamate (MSG) #232",
+        "Why It's Used For":"Flavor enhancer in noodles, chips, and soups",
+        "Risk":"Headaches, nausea, Chinese restaurant syndrome"
+    },
+    {
+        "Ingredient":"Sodium Benzoate #233",
+        "Why It's Used For":"Preservative in soft drinks, pickles, dressings",
+        "Risk":"Forms benzene (carcinogen) with vitamin C"
+    },
+    {
+        "Ingredient":"BHA (Butylated Hydroxyanisole) #234",
+        "Why It's Used For":"Preservative in cereals, chips, and gum",
+        "Risk":"Possible human carcinogen"
+    },
+    {
+        "Ingredient":"BHT (Butylated Hydroxytoluene) #235",
+        "Why It's Used For":"Preserves fats and oils in snacks, gum, baked goods",
+        "Risk":"Liver\/kidney damage, tumor risk"
+    },
+    {
+        "Ingredient":"Lead #236",
+        "Why It's Used For":"Found in old paints, hair dyes, contaminated cosmetics",
+        "Risk":"Neurotoxic, developmental issues"
+    },
+    {
+        "Ingredient":"Mercury #237",
+        "Why It's Used For":"Found in some skin-lightening creams, contaminated fish",
+        "Risk":"Neurotoxic, kidney and brain damage"
+    },
+    {
+        "Ingredient":"Triclosan #238",
+        "Why It's Used For":"Antibacterial agent in soaps, toothpaste, deodorants",
+        "Risk":"Hormone disruption, antibiotic resistance"
+    },
+    {
+        "Ingredient":"Talc (with asbestos) #239",
+        "Why It's Used For":"Used in baby powder and cosmetics for smoothness",
+        "Risk":"Cancer risk (ovarian, lung)"
+    },
+    {
+        "Ingredient":"Benzene #240",
+        "Why It's Used For":"Industrial solvent, aerosol sprays",
+        "Risk":"Carcinogenic, blood cancers"
+    },
+    {
+        "Ingredient":"Sodium Lauryl Sulfate (SLS) #241",
+        "Why It's Used For":"Foaming agent in shampoo, toothpaste, soap",
+        "Risk":"Skin\/eye irritation, strips natural oils"
+    },
+    {
+        "Ingredient":"Parabens (Methyl, Propyl, Butyl) #242",
+        "Why It's Used For":"Preservative in lotions and makeup",
+        "Risk":"Endocrine disruption, linked to breast cancer"
+    },
+    {
+        "Ingredient":"Formaldehyde #243",
+        "Why It's Used For":"Used in nail polish, disinfectants, and preservatives",
+        "Risk":"Carcinogenic, causes respiratory issues"
+    },
+    {
+        "Ingredient":"Phthalates #244",
+        "Why It's Used For":"Fix scent in fragrances, used in plastics and cosmetics",
+        "Risk":"Hormone disruption, reproductive toxicity"
+    },
+    {
+        "Ingredient":"Aspartame #245",
+        "Why It's Used For":"Artificial sweetener in diet sodas and sugar-free foods",
+        "Risk":"Headaches, dizziness, neurological issues"
+    },
+    {
+        "Ingredient":"High-Fructose Corn Syrup #246",
+        "Why It's Used For":"Sweetener in sodas, processed foods, and candies",
+        "Risk":"Obesity, diabetes, fatty liver risk"
+    },
+    {
+        "Ingredient":"Monosodium Glutamate (MSG) #247",
+        "Why It's Used For":"Flavor enhancer in noodles, chips, and soups",
+        "Risk":"Headaches, nausea, Chinese restaurant syndrome"
+    },
+    {
+        "Ingredient":"Sodium Benzoate #248",
+        "Why It's Used For":"Preservative in soft drinks, pickles, dressings",
+        "Risk":"Forms benzene (carcinogen) with vitamin C"
+    },
+    {
+        "Ingredient":"BHA (Butylated Hydroxyanisole) #249",
+        "Why It's Used For":"Preservative in cereals, chips, and gum",
+        "Risk":"Possible human carcinogen"
+    },
+    {
+        "Ingredient":"BHT (Butylated Hydroxytoluene) #250",
+        "Why It's Used For":"Preserves fats and oils in snacks, gum, baked goods",
+        "Risk":"Liver\/kidney damage, tumor risk"
+    },
+    {
+        "Ingredient":"Lead #251",
+        "Why It's Used For":"Found in old paints, hair dyes, contaminated cosmetics",
+        "Risk":"Neurotoxic, developmental issues"
+    },
+    {
+        "Ingredient":"Mercury #252",
+        "Why It's Used For":"Found in some skin-lightening creams, contaminated fish",
+        "Risk":"Neurotoxic, kidney and brain damage"
+    },
+    {
+        "Ingredient":"Triclosan #253",
+        "Why It's Used For":"Antibacterial agent in soaps, toothpaste, deodorants",
+        "Risk":"Hormone disruption, antibiotic resistance"
+    },
+    {
+        "Ingredient":"Talc (with asbestos) #254",
+        "Why It's Used For":"Used in baby powder and cosmetics for smoothness",
+        "Risk":"Cancer risk (ovarian, lung)"
+    },
+    {
+        "Ingredient":"Benzene #255",
+        "Why It's Used For":"Industrial solvent, aerosol sprays",
+        "Risk":"Carcinogenic, blood cancers"
+    },
+    {
+        "Ingredient":"Sodium Lauryl Sulfate (SLS) #256",
+        "Why It's Used For":"Foaming agent in shampoo, toothpaste, soap",
+        "Risk":"Skin\/eye irritation, strips natural oils"
+    },
+    {
+        "Ingredient":"Parabens (Methyl, Propyl, Butyl) #257",
+        "Why It's Used For":"Preservative in lotions and makeup",
+        "Risk":"Endocrine disruption, linked to breast cancer"
+    },
+    {
+        "Ingredient":"Formaldehyde #258",
+        "Why It's Used For":"Used in nail polish, disinfectants, and preservatives",
+        "Risk":"Carcinogenic, causes respiratory issues"
+    },
+    {
+        "Ingredient":"Phthalates #259",
+        "Why It's Used For":"Fix scent in fragrances, used in plastics and cosmetics",
+        "Risk":"Hormone disruption, reproductive toxicity"
+    },
+    {
+        "Ingredient":"Aspartame #260",
+        "Why It's Used For":"Artificial sweetener in diet sodas and sugar-free foods",
+        "Risk":"Headaches, dizziness, neurological issues"
+    },
+    {
+        "Ingredient":"High-Fructose Corn Syrup #261",
+        "Why It's Used For":"Sweetener in sodas, processed foods, and candies",
+        "Risk":"Obesity, diabetes, fatty liver risk"
+    },
+    {
+        "Ingredient":"Monosodium Glutamate (MSG) #262",
+        "Why It's Used For":"Flavor enhancer in noodles, chips, and soups",
+        "Risk":"Headaches, nausea, Chinese restaurant syndrome"
+    },
+    {
+        "Ingredient":"Sodium Benzoate #263",
+        "Why It's Used For":"Preservative in soft drinks, pickles, dressings",
+        "Risk":"Forms benzene (carcinogen) with vitamin C"
+    },
+    {
+        "Ingredient":"BHA (Butylated Hydroxyanisole) #264",
+        "Why It's Used For":"Preservative in cereals, chips, and gum",
+        "Risk":"Possible human carcinogen"
+    },
+    {
+        "Ingredient":"BHT (Butylated Hydroxytoluene) #265",
+        "Why It's Used For":"Preserves fats and oils in snacks, gum, baked goods",
+        "Risk":"Liver\/kidney damage, tumor risk"
+    },
+    {
+        "Ingredient":"Lead #266",
+        "Why It's Used For":"Found in old paints, hair dyes, contaminated cosmetics",
+        "Risk":"Neurotoxic, developmental issues"
+    },
+    {
+        "Ingredient":"Mercury #267",
+        "Why It's Used For":"Found in some skin-lightening creams, contaminated fish",
+        "Risk":"Neurotoxic, kidney and brain damage"
+    },
+    {
+        "Ingredient":"Triclosan #268",
+        "Why It's Used For":"Antibacterial agent in soaps, toothpaste, deodorants",
+        "Risk":"Hormone disruption, antibiotic resistance"
+    },
+    {
+        "Ingredient":"Talc (with asbestos) #269",
+        "Why It's Used For":"Used in baby powder and cosmetics for smoothness",
+        "Risk":"Cancer risk (ovarian, lung)"
+    },
+    {
+        "Ingredient":"Benzene #270",
+        "Why It's Used For":"Industrial solvent, aerosol sprays",
+        "Risk":"Carcinogenic, blood cancers"
+    },
+    {
+        "Ingredient":"Sodium Lauryl Sulfate (SLS) #271",
+        "Why It's Used For":"Foaming agent in shampoo, toothpaste, soap",
+        "Risk":"Skin\/eye irritation, strips natural oils"
+    },
+    {
+        "Ingredient":"Parabens (Methyl, Propyl, Butyl) #272",
+        "Why It's Used For":"Preservative in lotions and makeup",
+        "Risk":"Endocrine disruption, linked to breast cancer"
+    },
+    {
+        "Ingredient":"Formaldehyde #273",
+        "Why It's Used For":"Used in nail polish, disinfectants, and preservatives",
+        "Risk":"Carcinogenic, causes respiratory issues"
+    },
+    {
+        "Ingredient":"Phthalates #274",
+        "Why It's Used For":"Fix scent in fragrances, used in plastics and cosmetics",
+        "Risk":"Hormone disruption, reproductive toxicity"
+    },
+    {
+        "Ingredient":"Aspartame #275",
+        "Why It's Used For":"Artificial sweetener in diet sodas and sugar-free foods",
+        "Risk":"Headaches, dizziness, neurological issues"
+    },
+    {
+        "Ingredient":"High-Fructose Corn Syrup #276",
+        "Why It's Used For":"Sweetener in sodas, processed foods, and candies",
+        "Risk":"Obesity, diabetes, fatty liver risk"
+    },
+    {
+        "Ingredient":"Monosodium Glutamate (MSG) #277",
+        "Why It's Used For":"Flavor enhancer in noodles, chips, and soups",
+        "Risk":"Headaches, nausea, Chinese restaurant syndrome"
+    },
+    {
+        "Ingredient":"Sodium Benzoate #278",
+        "Why It's Used For":"Preservative in soft drinks, pickles, dressings",
+        "Risk":"Forms benzene (carcinogen) with vitamin C"
+    },
+    {
+        "Ingredient":"BHA (Butylated Hydroxyanisole) #279",
+        "Why It's Used For":"Preservative in cereals, chips, and gum",
+        "Risk":"Possible human carcinogen"
+    },
+    {
+        "Ingredient":"BHT (Butylated Hydroxytoluene) #280",
+        "Why It's Used For":"Preserves fats and oils in snacks, gum, baked goods",
+        "Risk":"Liver\/kidney damage, tumor risk"
+    },
+    {
+        "Ingredient":"Lead #281",
+        "Why It's Used For":"Found in old paints, hair dyes, contaminated cosmetics",
+        "Risk":"Neurotoxic, developmental issues"
+    },
+    {
+        "Ingredient":"Mercury #282",
+        "Why It's Used For":"Found in some skin-lightening creams, contaminated fish",
+        "Risk":"Neurotoxic, kidney and brain damage"
+    },
+    {
+        "Ingredient":"Triclosan #283",
+        "Why It's Used For":"Antibacterial agent in soaps, toothpaste, deodorants",
+        "Risk":"Hormone disruption, antibiotic resistance"
+    },
+    {
+        "Ingredient":"Talc (with asbestos) #284",
+        "Why It's Used For":"Used in baby powder and cosmetics for smoothness",
+        "Risk":"Cancer risk (ovarian, lung)"
+    },
+    {
+        "Ingredient":"Benzene #285",
+        "Why It's Used For":"Industrial solvent, aerosol sprays",
+        "Risk":"Carcinogenic, blood cancers"
+    },
+    {
+        "Ingredient":"Sodium Lauryl Sulfate (SLS) #286",
+        "Why It's Used For":"Foaming agent in shampoo, toothpaste, soap",
+        "Risk":"Skin\/eye irritation, strips natural oils"
+    },
+    {
+        "Ingredient":"Parabens (Methyl, Propyl, Butyl) #287",
+        "Why It's Used For":"Preservative in lotions and makeup",
+        "Risk":"Endocrine disruption, linked to breast cancer"
+    },
+    {
+        "Ingredient":"Formaldehyde #288",
+        "Why It's Used For":"Used in nail polish, disinfectants, and preservatives",
+        "Risk":"Carcinogenic, causes respiratory issues"
+    },
+    {
+        "Ingredient":"Phthalates #289",
+        "Why It's Used For":"Fix scent in fragrances, used in plastics and cosmetics",
+        "Risk":"Hormone disruption, reproductive toxicity"
+    },
+    {
+        "Ingredient":"Aspartame #290",
+        "Why It's Used For":"Artificial sweetener in diet sodas and sugar-free foods",
+        "Risk":"Headaches, dizziness, neurological issues"
+    },
+    {
+        "Ingredient":"High-Fructose Corn Syrup #291",
+        "Why It's Used For":"Sweetener in sodas, processed foods, and candies",
+        "Risk":"Obesity, diabetes, fatty liver risk"
+    },
+    {
+        "Ingredient":"Monosodium Glutamate (MSG) #292",
+        "Why It's Used For":"Flavor enhancer in noodles, chips, and soups",
+        "Risk":"Headaches, nausea, Chinese restaurant syndrome"
+    },
+    {
+        "Ingredient":"Sodium Benzoate #293",
+        "Why It's Used For":"Preservative in soft drinks, pickles, dressings",
+        "Risk":"Forms benzene (carcinogen) with vitamin C"
+    },
+    {
+        "Ingredient":"BHA (Butylated Hydroxyanisole) #294",
+        "Why It's Used For":"Preservative in cereals, chips, and gum",
+        "Risk":"Possible human carcinogen"
+    },
+    {
+        "Ingredient":"BHT (Butylated Hydroxytoluene) #295",
+        "Why It's Used For":"Preserves fats and oils in snacks, gum, baked goods",
+        "Risk":"Liver\/kidney damage, tumor risk"
+    },
+    {
+        "Ingredient":"Lead #296",
+        "Why It's Used For":"Found in old paints, hair dyes, contaminated cosmetics",
+        "Risk":"Neurotoxic, developmental issues"
+    },
+    {
+        "Ingredient":"Mercury #297",
+        "Why It's Used For":"Found in some skin-lightening creams, contaminated fish",
+        "Risk":"Neurotoxic, kidney and brain damage"
+    },
+    {
+        "Ingredient":"Triclosan #298",
+        "Why It's Used For":"Antibacterial agent in soaps, toothpaste, deodorants",
+        "Risk":"Hormone disruption, antibiotic resistance"
+    },
+    {
+        "Ingredient":"Talc (with asbestos) #299",
+        "Why It's Used For":"Used in baby powder and cosmetics for smoothness",
+        "Risk":"Cancer risk (ovarian, lung)"
+    },
+    {
+        "Ingredient":"Benzene #300",
+        "Why It's Used For":"Industrial solvent, aerosol sprays",
+        "Risk":"Carcinogenic, blood cancers"
+    }
+]
